@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224240023
+# Name: B V REVANTH KUMAR
+# Date:14-02-2026
 
 
 # AIM:
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1225" height="1005" alt="image" src="https://github.com/user-attachments/assets/3070fa69-166f-482b-bdb1-879307c5702a" />
 
 
 
@@ -67,6 +68,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1223" height="995" alt="image" src="https://github.com/user-attachments/assets/6103b12a-83de-488c-827a-31814da84a4d" />
 
 
 
@@ -77,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1228" height="1007" alt="image" src="https://github.com/user-attachments/assets/3c758dbc-29d8-4cab-a2fc-67aa43af8fd0" />
 
 
 # PACKAGE DIAGRAM:
@@ -87,6 +90,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1221" height="995" alt="image" src="https://github.com/user-attachments/assets/4eee8522-24e0-4ca6-ac80-00b78ee73b06" />
 
 
 
@@ -106,6 +110,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1226" height="1009" alt="image" src="https://github.com/user-attachments/assets/5ab35f29-4256-4027-a3be-aa9f956c9386" />
 
 
 
@@ -131,6 +136,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1114" height="813" alt="image" src="https://github.com/user-attachments/assets/f52dd584-c485-436e-bbea-1418fd960c7b" />
 
 # RESULT
 
